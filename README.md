@@ -1,5 +1,7 @@
 # v-tag-editor
 
+Note : All credits to [author](https://github.com/neves) [I](https://github.com/eregnier) just forked and republished this package to npm.
+
 > Dead simple Vue.js tag editor component
 
 ## Demo
